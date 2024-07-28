@@ -1,0 +1,6 @@
+﻿CustomerID,Name,DateOfBirth,Address,Country
+1,John Doe,1980-01-15,123 Elm St,High-Risk Country1
+2,Jane Smith,1990-05-22,456 Oak St,USA
+3,Bob Johnson,1975-07-30,789 Pine St,Canada
+4,Emily Davis,1985-12-09,321 Maple St,High-Risk Country2
+5,Michael Brown,1995-02-12,654 Cedar St,UK
